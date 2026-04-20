@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "798692739862",
+    "project_id": "cretex-69307",
+    "storage_bucket": "cretex-69307.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:798692739862:android:f754b3e6d2ca670fcbde37",
+        "android_client_info": {
+          "package_name": "com.example.cretex"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4i6P2nOXJzZ7U_A3Jycso_hmA77-ahdM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
