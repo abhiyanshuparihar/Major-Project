@@ -1,6 +1,6 @@
 # Blockchain-Based Product Tracking System
 
-## 📌 Problem Statement
+## Problem Statement
 
 India faces a major issue of counterfeit (fake) products, with nearly 25–30% of items being fake. Existing systems only provide manufacturing details and fail to track the full journey of a product through the supply chain. Due to this lack of transparency, fake products easily enter the market.
 
@@ -8,7 +8,7 @@ Additionally, most users do not scan QR codes, making product verification diffi
 
 ---
 
-## 💡 Proposed Solution
+## Proposed Solution
 
 We propose a **Blockchain-Based Product Tracking System** where each product is assigned a unique QR code.
 
@@ -24,7 +24,7 @@ This ensures:
 
 ---
 
-## ⚙️ Features
+## Features
 
 - Unique QR code for every product  
 - Complete supply chain tracking  
@@ -34,7 +34,7 @@ This ensures:
 
 ---
 
-## 🚀 Tech Stack
+## Tech Stack
 
 - **Frontend:** Flutter  
 - **Backend:** Firebase  
@@ -42,7 +42,7 @@ This ensures:
 
 ---
 
-## 🔐 Benefits
+## Benefits
 
 - Prevents counterfeit products  
 - Builds trust between users and brands  
@@ -51,7 +51,7 @@ This ensures:
 
 ---
 
-## 📈 Future Scope
+## Future Scope
 
 - Integration with AI for fraud detection  
 - Wider adoption in industries  
@@ -59,6 +59,6 @@ This ensures:
 
 ---
 
-## 📌 Conclusion
+## Conclusion
 
 This system provides a secure, transparent, and efficient way to track products and reduce counterfeit goods in the market using blockchain technology.
